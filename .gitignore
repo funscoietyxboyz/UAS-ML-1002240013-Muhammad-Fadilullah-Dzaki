@@ -1,0 +1,20 @@
+\# Data & model artefak (dibuat ulang lewat skrip, tidak dikomit)
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+
+\# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+\# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+\# Reports boleh dikomit (PNG), tapi bukan cache
+reports/.ipynb_checkpoints/
