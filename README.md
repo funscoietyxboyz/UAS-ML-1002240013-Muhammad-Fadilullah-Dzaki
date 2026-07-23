@@ -1,8 +1,3 @@
-# UAS Praktikum ML End-to-End — Kasus B: Estimasi Harga Kendaraan Bekas
-
-> **Ganti nama folder ini** dari `UAS-ML-1002240013-Muhammad-Fadilullah-Dzaki` menjadi 
-> dan isi bagian **UAS-ML-1002240013-Muhammad-Fadilullah-Dzaki** di bawah
-
 **Kasus yang dipilih:** Kasus B — Regresi: Estimasi Harga Kendaraan Bekas
 **Nama / NIM:** UAS-ML-1002240013-Muhammad-Fadilullah-Dzaki
 
