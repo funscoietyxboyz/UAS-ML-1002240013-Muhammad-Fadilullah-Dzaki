@@ -266,5 +266,6 @@ diupdate terus-menerus.
 - Baris `Porsche Cayenne` dengan `Price=2.02` Lakh pada test set (lihat Bagian 4 laporan)
   kemungkinan kesalahan input data asli (harga terlalu rendah utk spek mobil), namun tetap
   disertakan karena test set tidak boleh "dibersihkan" setelah split.
-#   U A S - M L - 1 0 0 2 2 4 0 0 1 3 - M u h a m m a d - F a d i l u l l a h - D z a k i  
+#   U A S - M L - 1 0 0 2 2 4 0 0 1 3 - M u h a m m a d - F a d i l u l l a h - D z a k i 
+ 
  
